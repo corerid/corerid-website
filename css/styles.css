@@ -146,7 +146,7 @@ section {
          
 
         .shapedividers_com-9733 {
-            height: 12.5rem;
+            height: 5.125rem;
         }
          
 
@@ -285,7 +285,7 @@ h4 {
     letter-spacing: 1px;
     /* padding: 5%; */
     /* background-color:lightblue; */
-    padding: 10% 5% 5% 5%;
+    padding: 10% 5% 10% 5%;
 }
 
 .about h1 {
@@ -325,10 +325,10 @@ h4 {
     padding-bottom: 50px;
 }
 
-.timeline {
+ .timeline {
     position: relative;
     padding: 0;
-    margin: 5% 5%;
+    margin: 5% 7%;
     list-style: none;
 }
 
@@ -336,12 +336,11 @@ h4 {
     position: absolute;
     top: 0;
     bottom: 0;
-    left: 12.2%;
-    width: 5px;
+    left: 40px;
+    width: 6px;
     margin-left: -1.5px;
     content: "";
     background-color: #FFD369;
-    margin: 0 auto
 }
 
 .timeline>li {
@@ -437,7 +436,6 @@ h4 {
 
 .timeline .timeline-heading h4.subheading,
 .timeline .timeline-heading .subheading.h4 {
-    /* text-transform: none; */
     font-weight: 500;
     font-size: 1.75rem;
     padding-bottom: 10px;
@@ -457,7 +455,7 @@ h4 {
     color: #222831;
     border: 7px solid #F8A488;
     background-color: #FFD369;
-} */
+} 
 
 .history-intro {
     padding-bottom: 100px;
