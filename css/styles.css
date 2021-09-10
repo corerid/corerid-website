@@ -490,7 +490,7 @@ h4 {
     top: -1px;
     z-index: 3;
     pointer-events: none;
-    background-color: red;
+    background-color: white;
     background-repeat: no-repeat; 
     background-size: 100% 55px;
     background-position: 50% 0%;    
@@ -532,7 +532,16 @@ h4 {
 
 /* skills */
 .skills {
-    background-color: red;
+    font-family: 'Yantramanav', sans-serif;
+    background-color: white;
+    padding: 5% 0 10% 0;
+    text-align: center;
+}
+
+.skills h2 {
+    font-weight: 500;
+    font-size: 3rem;
+    padding-bottom: 100px;
 }
 
 @media (max-width: 991px) {
